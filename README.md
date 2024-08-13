@@ -20,3 +20,6 @@ Split your .Gif Pictures:)
 2. Click 'Choose GIF' Button and choose a gif file(On high-resolution (e.g. 4k) devices, the font is blurry, I'm sorry)
 3. Click 'Choose Folder' Button and choose a folder to save the pictures
 4. Click 'Split' to Split .GIF to .PNG
+
+# Future
+This repository will archive at the all work is end and Window Edtion will be a function in [Kaminari Toolbox](https://github.com/TeamKaminari/Kaminari-Toolbox)
